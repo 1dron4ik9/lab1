@@ -1,17 +1,8 @@
-# Welcome to MS Teams Clone!
+Copyright 2023 ANDRII VASILIEV
 
-### [Example Website](https://chat-app-jsmastery.netlify.app)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## Introduction
-
-This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
-
-React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
-
-Its a good example of learning react and creating something production ready!
-
-## Want to build this too?
-
-Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+https://github.com/1dron4ik9/lab1/blob/main/licenses.json
